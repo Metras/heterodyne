@@ -1,0 +1,1 @@
+Heterodyne is being developed by Radio Free Lexington (WRFL 88.1FM) in Lexington, Kentucky. It is a web based system for management of typical issues encountered in the operation of a freeform radio station in addition to a CMS. It uses music metadata from the MusicBrainz project.
